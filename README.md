@@ -3,7 +3,7 @@
 This [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) provides a simple form testing tool.
 It parses form fields and tries to find proper test values (email, zip code, phone number, etc.) from a set of example values.
 
-![Screenshot](http://steambros.github.io/formTestBookmarklet/screenshot.png)
+![Screenshot](http://steambros.github.io/formTestBookmarklet/images/screenshot.gif)
 
 For every project in my daily work I have to test different forms (registration, order, contact, etc.). In the best case I want to test these forms with different values or even empty fields (to test error handling). Therefor I created this bookmarklet.
 
